@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/forward.js",
+      "use": "@vercel/node"
+    }
+  ]
+}
