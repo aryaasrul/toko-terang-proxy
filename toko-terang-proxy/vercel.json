@@ -1,9 +1,0 @@
-{
-  "routes": [
-    {
-      "src": "/api/save",
-      "methods": ["POST"],
-      "dest": "/api/save.js"
-    }
-  ]
-}
